@@ -1,0 +1,19 @@
+[
+  "constructor()",
+  "event CardPurchased(uint256,uint256,address,uint256)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function _collections(uint256) view returns (address)",
+  "function buyCard(uint256,uint256) payable",
+  "function createCollection(string,uint256)",
+  "function getCollection(uint256) view returns (address)",
+  "function getCollectionCount() view returns (uint256)",
+  "function getCollectionsWithCards() view returns (tuple(string,uint256,tuple(string,string,address,bool,uint256)[])[])",
+  "function getMarketplaceCards() view returns (tuple(uint256,uint256,string,string,address,uint256,bool)[])",
+  "function getUserCards(address) view returns (tuple(uint256,uint256,string,string,address,uint256,bool)[])",
+  "function mintCardToUser(uint256,address,string,string)",
+  "function owner() view returns (address)",
+  "function removeCardFromSale(uint256,uint256)",
+  "function renounceOwnership()",
+  "function setCardForSale(uint256,uint256)",
+  "function transferOwnership(address)"
+]
