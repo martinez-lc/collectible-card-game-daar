@@ -31,7 +31,8 @@ Now you can connect Metamask to the blockchain. To do this, add a network by cli
 
 Once you have done it, you’re connected to the HardHat blockchain!
 
-#Video Project
+# VIDEO PROJECT
+
 [!YouTube](https://www.youtube.com/watch?v=EbXguQA8vFU)
 
 
